@@ -1,0 +1,11 @@
+pandas
+numpy
+streamlit
+sentence-transformers
+langchain
+milvus
+pymilvus
+openai
+PyPDF2
+SpeechRecognition
+ffmpeg
