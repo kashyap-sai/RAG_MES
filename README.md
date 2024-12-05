@@ -10,3 +10,12 @@ Start by cloning the repository to your local machine:
 ```bash
 git clone https://github.com/your-username/mes-rag-system.git
 cd mes-rag-system
+
+
+
+### Explanation:
+- The section **"Set Up the Environment"** first creates a virtual environment using `python3 -m venv venv`.
+- Then, it shows how to activate the environment depending on your operating system (macOS/Linux or Windows).
+- After setting up the virtual environment, the necessary dependencies are installed using `pip install -r requirements.txt`.
+  
+Once this is added to your `README.md`, you can then push the file to your GitHub repository.
