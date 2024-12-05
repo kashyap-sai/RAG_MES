@@ -18,6 +18,9 @@ python3 -m venv venv
  Install Dependencies
 pip install -r requirements.txt
 
+Start the Streamlit application:
+    streamlit run app.py
+
 
 Here's the complete README.md content in markdown format that you can use directly for your project on GitHub:
 
