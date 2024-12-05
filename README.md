@@ -11,6 +11,17 @@ Start by cloning the repository to your local machine:
 git clone https://github.com/your-username/mes-rag-system.git
 cd mes-rag-system
 
+Set Up the Environment
+python3 -m venv venv
+
+
+ Install Dependencies
+pip install -r requirements.txt
+
+Run the Application
+python app.py
+
+
 
 
 ### Explanation:
